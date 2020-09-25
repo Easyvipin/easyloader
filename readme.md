@@ -1,15 +1,15 @@
-# What is easyloader ?
+# What is easypreloader ?
 
-You can use easyloader package to add built in preloader for a web app.
+You can use easypreloader package to add built in preloader for a web app.
 
 # installation
 
-`npm i easyloader --save`
+`npm i easypreloader --save`
 
 After that import the package
 
 ```
-import {easyloader} from 'easyloader';
+import {easyloader} from 'easypreloader';
 
  var loader = new easyloader({
      background:"black",
@@ -17,6 +17,7 @@ import {easyloader} from 'easyloader';
  });
 
  loader.generateLoader();
+
 ```
 
 ## OPTIONS

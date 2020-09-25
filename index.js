@@ -1,5 +1,7 @@
+import spinner from "./spinner.svg";
+
 class easyloader {
-  constructor({ background = "#000000", path = "spinner.svg" }) {
+  constructor({ background = "#000000", path = `${spinner}` }) {
     this.background = background;
     this.path = path;
   }

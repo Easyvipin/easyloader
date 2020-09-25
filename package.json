@@ -1,5 +1,5 @@
 {
-  "name": "easyloader",
+  "name": "easypreloader",
   "version": "1.0.0",
   "description": "Preloader for your web app",
   "main": "index.js",
