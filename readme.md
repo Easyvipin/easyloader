@@ -24,7 +24,7 @@ import {easyloader} from 'easypreloader';
  loader.generateLoader();
 
 ```
-
+![loader](sd.png)
 ## OPTIONS
 
 easyloader provides two options and both are optional:
