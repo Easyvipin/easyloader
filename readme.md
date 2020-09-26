@@ -30,7 +30,7 @@ import {easyloader} from 'easypreloader';
 easyloader provides two options and both are optional:
 
 - _background_ //specify the color here ( Default to #00000 )
-- _padding_ //specify the path of your loading icon (Default icon)
+- path //specify the path of your loading icon (Default icon)
 
 ## In the upcoming version 
 - [ ] preloader for specific sections on the page which fetch data from Apis
